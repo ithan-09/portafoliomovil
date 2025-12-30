@@ -30,7 +30,7 @@ export default function ContactScreen() {
                     />
                     <ContactButton
                         title="Enviar Correo"
-                        url="taquirenexon@gmail.com"
+                        url="https://mail.google.com/mail/u/0/#inbox"
                         iconName="mail"
                         color="#EA4335"
                     />
