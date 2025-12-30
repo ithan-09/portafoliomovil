@@ -23,7 +23,7 @@ export default function HomeScreen() {
       <ThemedView style={styles.contentContainer}>
         <Image
           style={styles.profileImage}
-          source={{ uri: 'https://github.com/ithan-09/proyectodecero.1/blob/main/curriculon.jpeg' }} // Placeholder
+          source={{ uri: 'curriculon(1)(1).png' }} // Placeholder
         />
         <ThemedText style={styles.description}>
           Desarrollador de Software apasionado por crear aplicaciones móviles increíbles con React Native.

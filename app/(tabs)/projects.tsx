@@ -7,27 +7,27 @@ import { FlatList, StyleSheet } from 'react-native';
 const projects = [
     {
         id: '1',
-        title: 'E-commerce App',
-        description: 'Una aplicación móvil completa de comercio electrónico con carrito de compras, pagos y perfil de usuario.',
-        tech: ['React Native', 'Redux', 'Stripe'],
+        title: 'sitio web restaurantes',
+        description: 'una web conpleta para un restaurante que muestra los platos y los precios.',
+        tech: ['html', 'javascript', 'css'],
     },
     {
         id: '2',
-        title: 'Task Manager',
-        description: 'Aplicación de gestión de tareas y productividad con recordatorios y categorías personalizables.',
-        tech: ['React', 'Firebase', 'TypeScript'],
+        title: 'sitio wep de una cafeteria',
+        description: 'una web conpleta para una cafeteria que muestra los platos y los precios.',
+        tech: ['html', 'javascript', 'css'],
     },
     {
         id: '3',
-        title: 'Weather Tracker',
-        description: 'App del clima que muestra pronósticos en tiempo real utilizando geolocalización.',
-        tech: ['JavaScript', 'API Integration', 'UI Kit'],
+        title: 'mi portfolio',
+        description: 'mi portfolio que muestra mis proyectos y habilidades.',
+        tech: ['html', 'javascript', 'css'],
     },
     {
         id: '4',
-        title: 'Fitness Tracker',
-        description: 'Seguimiento de entrenamientos y dietas con gráficos de progreso.',
-        tech: ['React Native', 'Victory Charts', 'HealthKit'],
+        title: 'sitio web ventas',
+        description: 'un sitio wep de ventas de accesorios de telefonos .',
+        tech: ['html', 'javascript', 'css'],
     },
 ];
 

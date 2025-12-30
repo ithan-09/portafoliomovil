@@ -5,9 +5,9 @@ import React from 'react';
 import { ScrollView, StyleSheet, View } from 'react-native';
 
 const skills = [
-    'React Native', 'JavaScript', 'TypeScript', 'React',
-    'Node.js', 'CSS', 'HTML', 'Git', 'UI/UX Design',
-    'Firebase', 'REST APIs', 'SQL'
+    'JavaScript',
+    'python', 'CSS', 'HTML', 'Git', 
+    'SQL'
 ];
 
 export default function SkillsScreen() {

@@ -18,25 +18,25 @@ export default function ContactScreen() {
                 <View style={styles.buttonsContainer}>
                     <ContactButton
                         title="WhatsApp"
-                        url="https://wa.me/1234567890"
+                        url="https://wa.me/907 580 844"
                         iconName="logo-whatsapp"
                         color="#25D366"
                     />
                     <ContactButton
                         title="LinkedIn"
-                        url="https://www.linkedin.com/"
+                        url="https://www.linkedin.com/feed/"
                         iconName="logo-linkedin"
                         color="#0077b5"
                     />
                     <ContactButton
                         title="Enviar Correo"
-                        url="mailto:correo@ejemplo.com"
+                        url="taquirenexon@gmail.com"
                         iconName="mail"
                         color="#EA4335"
                     />
                     <ContactButton
                         title="GitHub"
-                        url="https://github.com/"
+                        url="https://github.com/ithan-09"
                         iconName="logo-github"
                         color="#333"
                     />
