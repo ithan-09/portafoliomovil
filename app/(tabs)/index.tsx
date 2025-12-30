@@ -23,7 +23,7 @@ export default function HomeScreen() {
       <ThemedView style={styles.contentContainer}>
         <Image
           style={styles.profileImage}
-          source={{ uri: 'curriculon(1)(1).png' }} // Placeholder
+          source={require('@/assets/images/profile-picture.png')}
         />
         <ThemedText style={styles.description}>
           Desarrollador de Software apasionado por crear aplicaciones móviles increíbles con React Native.
