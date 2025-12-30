@@ -16,14 +16,14 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">¡Hola! Soy Tu Nombre</ThemedText>
+        <ThemedText type="title">¡Hola! Soy Tu nexon </ThemedText>
         <HelloWave />
       </ThemedView>
 
       <ThemedView style={styles.contentContainer}>
         <Image
           style={styles.profileImage}
-          source={{ uri: 'https://reactnative.dev/img/tiny_logo.png' }} // Placeholder
+          source={{ uri: 'https://github.com/ithan-09/proyectodecero.1/blob/main/curriculon.jpeg' }} // Placeholder
         />
         <ThemedText style={styles.description}>
           Desarrollador de Software apasionado por crear aplicaciones móviles increíbles con React Native.
